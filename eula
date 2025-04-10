@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIPO End User License Agreement (EULA)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+        main {
+            max-width: 800px;
+            margin: 2rem auto;
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #f3fff4;
+            margin-bottom: 1rem;
+        }
+        h2 {
+            color: #4CAF50;
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        h3 {
+            color: #4CAF50;
+            margin-top: 1.5rem;
+            font-size: 1.2rem;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 1.5rem;
+        }
+        p {
+            margin: 1rem 0;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #4CAF50;
+            color: white;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>End User License Agreement (EULA)</h1>
+</header>
+
+<main>
+    <h2>Effective Date: 21/09/2024</h2>
+
+    <h3>1. Introduction</h3>
+    <p>By installing or using VIPO, you agree to comply with and be bound by this End User License Agreement ("EULA"). This agreement governs your use of the VIPO VPN application ("the App"), developed and provided by VIPO. If you do not agree to these terms, do not install or use the App.</p>
+
+    <h3>2. License Grant</h3>
+    <p>VIPO grants you a non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes on your mobile device, subject to the terms and conditions of this EULA.</p>
+
+    <h3>3. Restrictions</h3>
+    <p>You may not:</p>
+    <ul>
+        <li>Reverse engineer, decompile, disassemble, attempt to derive the source code of the App, or create derivative works based on the App.</li>
+        <li>Distribute, sell, rent, lease, or sublicense the App to any third party.</li>
+        <li>Use the App for any unlawful purpose, including but not limited to circumventing geographical restrictions or engaging in activities that may harm or disrupt the functionality of the App or the devices it runs on.</li>
+        <li>Use the App to access content or services that are not authorized by VIPO or that violate any applicable laws or regulations.</li>
+    </ul>
+
+    <h3>4. Ownership</h3>
+    <p>VIPO owns all rights, title, and interest in and to the App, including all intellectual property rights. You acknowledge that you are being granted a license to use the App and not acquiring any ownership rights.</p>
+
+    <h3>5. Privacy and Data Collection</h3>
+    <p>VIPO respects your privacy and is committed to protecting your personal information. Our <a href="privacy-policy.html">Privacy Policy</a> explains how we collect, use, and protect your data when using the App. By using the App, you consent to the collection and use of your data as described in the Privacy Policy.</p>
+
+    <h3>6. Termination</h3>
+    <p>This EULA is effective until terminated. You may terminate this agreement at any time by uninstalling the App from your device. VIPO reserves the right to suspend or terminate your access to the App at any time for any reason, including if you violate the terms of this EULA.</p>
+
+    <h3>7. Disclaimers</h3>
+    <p>The App is provided "as is" and "as available" without any warranties of any kind, either express or implied, including but not limited to the implied warranties of merchantability or fitness for a particular purpose. VIPO does not guarantee the availability, accuracy, or reliability of the App or its content.</p>
+
+    <h3>8. Limitation of Liability</h3>
+    <p>To the fullest extent permitted by applicable law, VIPO shall not be liable for any indirect, incidental, special, or consequential damages, including but not limited to loss of data, loss of profits, or business interruption, arising from or related to your use or inability to use the App.</p>
+
+    <h3>9. Indemnification</h3>
+    <p>You agree to indemnify, defend, and hold harmless VIPO and its affiliates, officers, agents, and employees from and against any and all claims, damages, liabilities, costs, and expenses arising from your use of the App or violation of this EULA.</p>
+
+    <h3>10. Governing Law</h3>
+    <p>This EULA shall be governed by and construed in accordance with the laws of the jurisdiction in which VIPO is incorporated. Any legal action or proceeding under this EULA shall be brought exclusively in the courts located in that jurisdiction.</p>
+
+    <h3>11. Changes to the EULA</h3>
+    <p>VIPO reserves the right to update or modify this EULA at any time. Any changes will be posted within the app or on our website. Your continued use of the App after such changes constitutes your acceptance of the updated EULA.</p>
+
+    <h3>12. Contact Us</h3>
+    <p>If you have any questions or concerns about this EULA, please contact us:</p>
+    <p>Email: <a href="mailto:fourapps13@gmail.com">fourapps13@gmail.com</a></p>
+
+</main>
+
+<footer>
+    <p>&copy; 2024 VIPO. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
